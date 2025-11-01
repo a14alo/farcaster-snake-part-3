@@ -1,0 +1,31 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Crypto Snake Challenge",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_7342a783-90bd-447a-91df-6cb08dff9010-EkEPsZAz2OJsFz0G6uOWavGkoCIkIF",
+    "homeUrl": "https://actual-spread-548.app.ohara.ai",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_7342a783-90bd-447a-91df-6cb08dff9010-EkEPsZAz2OJsFz0G6uOWavGkoCIkIF",
+    "buttonTitle": "Open with Ohara",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "Crypto Snake Challenge",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_7342a783-90bd-447a-91df-6cb08dff9010-EkEPsZAz2OJsFz0G6uOWavGkoCIkIF"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjQ1MTE5MSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDZmNDBDRWY3NTc0QkQzODI1MzYwNjhEYmVCMmQ1QjU2MjhiZEZhQTYifQ",
+    "payload": "eyJkb21haW4iOiJhY3R1YWwtc3ByZWFkLTU0OC5hcHAub2hhcmEuYWkifQ",
+    "signature": "TuvLl2NXEbrDyfJ0kKGgxOr1AsRs/DClXULU/rjRXkYmtmgTyig8buySQltB5jn9sV+jqtrzIOcxu+vo+Fo9sBw="
+  }
+}
